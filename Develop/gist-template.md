@@ -1,10 +1,10 @@
 # Regex Tutorial
 
-A regex, or regular expression, is a method used in JavaScript to check if a string fullfills the requirements of validation, by using a series of special characters to define a search pattern.
+In this article I will teach you all you need to know as if you had to pass an exam on regular expressions. A regex, or regular expression, is a method used in JavaScript to check if a string fullfills the requirements of validation, by using a series of special characters to define a search pattern.
 
 ## Summary
 
-This tutorial explains how to use a regex to match emails, using the expression /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/, as an example.
+To a developer, they might be able to see that its a criteria for things such as passwords or usernames or even an email. This tutorial explains how to use a regex to match emails, using the expression /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/, as an example.This tutorial breakdown exactly what each part means in sections to make it easier to read.
 
 ## Table of Contents
 
