@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+A regex, or regular expression, is a method used in JavaScript to check if a string fullfills the requirements of validation, by using a series of special characters to define a search pattern.
 
 ## Summary
 
