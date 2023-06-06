@@ -30,7 +30,11 @@ This tutorial explains how to use a regex to match emails, using the expression 
 
 ### Quantifiers
 
+(`+`) (plus sign): Matches one or more occurrences of the preceding element. In this regex, it applies to [a-zA-Z0-9._-], [a-zA-Z0-9.-], and [a-zA-Z]{2,}. It allows for one or more alphanumeric characters, periods, underscores, or hyphens in the local part of the email, one or more alphanumeric characters, periods, or hyphens in the domain name, and at least two alphabetic characters in the TLD.
+
 ### OR Operator
+
+(`()`) (parentheses): Groups multiple elements together. In this regex, parentheses are not used for capturing groups; instead, they are used to group parts of the regex for applying quantifiers and operators.
 
 ### Character Classes
 
