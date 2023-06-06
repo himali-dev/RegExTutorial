@@ -4,7 +4,7 @@ A regex, or regular expression, is a method used in JavaScript to check if a str
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+This tutorial explains how to use a regex to match emails, using the expression /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/, as an example.
 
 ## Table of Contents
 
