@@ -24,6 +24,10 @@ This tutorial explains how to use a regex to match emails, using the expression 
 
 ### Anchors
 
+(`^`) - The caret symbol denotes the start of the string. This ensures that the email begins with the pattern specified next.
+
+(`$`) - The dollar sign represents the end of the string. It ensures that the email address ends after the TLD.
+
 ### Quantifiers
 
 ### OR Operator
